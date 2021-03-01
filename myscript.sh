@@ -1,4 +1,5 @@
 #!/bin/bash
+#To get file and directory names and count of directories and files
 a=0
 if [ -e ~/filelist.txt ]
 then
